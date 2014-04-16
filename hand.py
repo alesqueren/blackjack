@@ -40,7 +40,6 @@ class Hand:
             new_scores.append(hand_score + card_score)
       self._scores = new_scores;
       # add the new card
-      #print 'ajout : ' + str(card)
       self._cards.append(card);
 
    def compare(self, other):
