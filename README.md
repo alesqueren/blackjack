@@ -13,8 +13,8 @@ and understand.
 
 Must have
 ---------
-    * Correct compare method in Hand class
-    * Make a configuration file interface for different rules, decks number ...
+* Correct compare method in Hand class
+* Make a configuration file interface for different rules, decks number ...
 
 Nice to have
 ------------
