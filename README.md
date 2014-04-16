@@ -11,13 +11,13 @@ information on the web. Blackjack simulation software are difficult to configure
 and understand.
 
 
-Improvements needed
--------------------
+Must have
+---------
     * Correct compare method in Hand class
     * Make a configuration file interface for different rules, decks number ...
 
-Improvements that would make the tool awesome:
-----------------------------------------------
+Nice to have
+------------
     * Add [counting strategies](http://www.guide-blackjack.com/hi-lo-comptage-cartes.html "blackjack")
     * Add [strategies with deviation](http://www.guide-blackjack.com/Compter-cartes-hi-lo-2.html "blackjack")
     * Easily configure thoses strategies with bet spread, probabiliy of player error ...
