@@ -5,16 +5,16 @@ Statistical tool for comparing different blackjack strategies.
 
 A lot of strategies and techniques allow the player to statistically win in
 blackjack. Thoses techniques are difficult to master, so it could be interesting
-to know their efficiency before learning them. Efficieny depends on your 
+to know their efficiency before learning them. Efficiency of a strategy depends on 
 specific rules of your table, your bankroll... so you can't find directly this
-information on the web. Blackjack simulation software are difficult to configure
+information on the web. Blackjack simulation softwares are often difficult to configure
 and understand.
 
 
 Must have
 ---------
 * Correct compare method in Hand class
-* Make a configuration file interface for different rules, decks number ...
+* Make a configuration file for different rules, decks number ...
 
 Nice to have
 ------------
